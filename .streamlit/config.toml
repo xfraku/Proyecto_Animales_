@@ -1,0 +1,13 @@
+[server]
+maxUploadSize = 20
+
+[client]
+showErrorDetails = "none"
+
+[theme]
+base = "light"
+primaryColor = "#126B60"
+backgroundColor = "#F6F8F7"
+secondaryBackgroundColor = "#EAF1EE"
+textColor = "#263E37"
+font = "sans serif"
